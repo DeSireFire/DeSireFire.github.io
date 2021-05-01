@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>快乐咸鱼のRaXianch窝</title>
+  <icon>https://blog.raxianch.moe/icon.png</icon>
+  <subtitle>Python、爬虫、Web全栈、IT互联网</subtitle>
+  <link href="https://blog.raxianch.moe/atom.xml" rel="self"/>
+  
+  <link href="https://blog.raxianch.moe/"/>
+  <updated>2021-04-30T08:20:02.000Z</updated>
+  <id>https://blog.raxianch.moe/</id>
+  
+  <author>
+    <name>RaXianch</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python：将一个列表切分成多个小列表</title>
+    <link href="https://blog.raxianch.moe/article/2054084708/"/>
+    <id>https://blog.raxianch.moe/article/2054084708/</id>
+    <published>2021-04-30T08:20:02.000Z</published>
+    <updated>2021-04-30T08:20:02.000Z</updated>
+    
+    
+    <summary type="html">python-将一个列表切分成多个小列表,多组数据扁平的保存在一个列表了，要怎么拆分。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="数据" scheme="https://blog.raxianch.moe/tags/%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>xpath语法:不包含某属性(or与and)的用法</title>
+    <link href="https://blog.raxianch.moe/article/267444874/"/>
+    <id>https://blog.raxianch.moe/article/267444874/</id>
+    <published>2021-04-29T10:31:13.000Z</published>
+    <updated>2021-04-29T10:31:13.000Z</updated>
+    
+    
+    <summary type="html">页面解析时，碰到同级li标签，进行部分采集筛选时用到了or和contains方法的结合。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="爬虫" scheme="https://blog.raxianch.moe/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="数据清洗" scheme="https://blog.raxianch.moe/tags/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/"/>
+    
+    <category term="解析库" scheme="https://blog.raxianch.moe/tags/%E8%A7%A3%E6%9E%90%E5%BA%93/"/>
+    
+    <category term="xpath" scheme="https://blog.raxianch.moe/tags/xpath/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>xpath_定位中@dom、starts-with、contains和text()、last()的对比</title>
+    <link href="https://blog.raxianch.moe/article/3719630739/"/>
+    <id>https://blog.raxianch.moe/article/3719630739/</id>
+    <published>2021-04-25T03:51:49.000Z</published>
+    <updated>2021-04-25T03:51:49.000Z</updated>
+    
+    
+    <summary type="html">xpath_定位中@dom、starts-with、contains和text()、last()的对比</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python - 爬虫 - 解析库 - xpath - 数据清洗" scheme="https://blog.raxianch.moe/tags/python-%E7%88%AC%E8%99%AB-%E8%A7%A3%E6%9E%90%E5%BA%93-xpath-%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git常用方法_撤销最后一次提交</title>
+    <link href="https://blog.raxianch.moe/article/1884864783/"/>
+    <id>https://blog.raxianch.moe/article/1884864783/</id>
+    <published>2021-04-25T03:01:21.000Z</published>
+    <updated>2021-04-25T03:01:21.000Z</updated>
+    
+    
+    <summary type="html">Git可以使用reset重置来撤销提交。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="git" scheme="https://blog.raxianch.moe/tags/git/"/>
+    
+    <category term="github" scheme="https://blog.raxianch.moe/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>xpath_normalize-space函数的两种用法</title>
+    <link href="https://blog.raxianch.moe/article/1637075314/"/>
+    <id>https://blog.raxianch.moe/article/1637075314/</id>
+    <published>2021-04-25T02:32:44.000Z</published>
+    <updated>2021-04-25T02:32:44.000Z</updated>
+    
+    
+    <summary type="html">normalize-space()的功能是去掉前后的空格。xpath函数normalize-space的两种用法，第一种方法非常实用，第二种方法就比较少用了。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="爬虫" scheme="https://blog.raxianch.moe/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="数据清洗" scheme="https://blog.raxianch.moe/tags/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/"/>
+    
+    <category term="解析库" scheme="https://blog.raxianch.moe/tags/%E8%A7%A3%E6%9E%90%E5%BA%93/"/>
+    
+    <category term="xpath" scheme="https://blog.raxianch.moe/tags/xpath/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pycharm 设置模板默认添加作者时间等信息</title>
+    <link href="https://blog.raxianch.moe/article/3315403751/"/>
+    <id>https://blog.raxianch.moe/article/3315403751/</id>
+    <published>2021-04-23T09:10:44.000Z</published>
+    <updated>2021-04-23T09:10:44.000Z</updated>
+    
+    
+    <summary type="html">Pycharm过程中,每次新建都需要手动的编写一些项目信息或者文件信息个人信息,如果使用模板的话,很高效很多.</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="pycharm" scheme="https://blog.raxianch.moe/tags/pycharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>统计Python的list列表中元素的重复次数</title>
+    <link href="https://blog.raxianch.moe/article/1074843733/"/>
+    <id>https://blog.raxianch.moe/article/1074843733/</id>
+    <published>2021-04-23T08:35:45.000Z</published>
+    <updated>2021-04-23T08:35:45.000Z</updated>
+    
+    
+    <summary type="html">python的列表去重挺方便的，但是想获取列表中的元素是否重复，以及想知道重复了几次要如何做呢？</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql数据库&#39;Got a packet bigger than‘max_allowed_packet’bytes&#39;的解决方案</title>
+    <link href="https://blog.raxianch.moe/article/3896883137/"/>
+    <id>https://blog.raxianch.moe/article/3896883137/</id>
+    <published>2021-04-22T11:49:23.000Z</published>
+    <updated>2021-04-22T11:49:23.000Z</updated>
+    
+    
+    <summary type="html">简介</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="疑难杂症" scheme="https://blog.raxianch.moe/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过python一键生成mysql建表sql语句！</title>
+    <link href="https://blog.raxianch.moe/article/2508268452/"/>
+    <id>https://blog.raxianch.moe/article/2508268452/</id>
+    <published>2021-04-22T06:13:13.000Z</published>
+    <updated>2021-04-22T06:13:13.000Z</updated>
+    
+    
+    <summary type="html">这一个多月，一直在做数据采集，写程序，然后创建好几个表一个个填字段，我吐了。于是，开发了一键生成建表sql的程序。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="navicat" scheme="https://blog.raxianch.moe/tags/navicat/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Navicat 看历史执行SQL</title>
+    <link href="https://blog.raxianch.moe/article/2124605906/"/>
+    <id>https://blog.raxianch.moe/article/2124605906/</id>
+    <published>2021-04-22T05:59:41.000Z</published>
+    <updated>2021-04-22T05:59:41.000Z</updated>
+    
+    
+    <summary type="html">navicat 有些危险操作是没有二次确认的，实施误操作以后如何追述问题，就需要查询历史记录。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="navicat" scheme="https://blog.raxianch.moe/tags/navicat/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MYSQL数据库Specified key was too long; max key length is xxx bytes,解决方案</title>
+    <link href="https://blog.raxianch.moe/article/2646095202/"/>
+    <id>https://blog.raxianch.moe/article/2646095202/</id>
+    <published>2021-04-22T05:46:48.000Z</published>
+    <updated>2021-04-22T05:46:48.000Z</updated>
+    
+    
+    <summary type="html">给MySql数据库表Varchar类型字段加索引时报错：“Specified key was too long; max key length is xxx bytes”；</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="疑难杂症" scheme="https://blog.raxianch.moe/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql设置自动更新时间&amp;创建时间</title>
+    <link href="https://blog.raxianch.moe/article/1404601960/"/>
+    <id>https://blog.raxianch.moe/article/1404601960/</id>
+    <published>2021-04-22T04:45:54.000Z</published>
+    <updated>2021-04-22T04:45:54.000Z</updated>
+    
+    
+    <summary type="html">scrapy item是可以不包含mysql自生成字段的。用sql自带的时间创建，可以省很多事，在数据更新判断上也交由数据库自己来判断。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="navicat" scheme="https://blog.raxianch.moe/tags/navicat/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql中ERROR 1364 (HY000): Field &#39;xxxx&#39; doesn&#39;t have a default value的解决方案</title>
+    <link href="https://blog.raxianch.moe/article/2414690755/"/>
+    <id>https://blog.raxianch.moe/article/2414690755/</id>
+    <published>2021-04-22T03:45:02.000Z</published>
+    <updated>2021-04-22T03:45:02.000Z</updated>
+    
+    
+    <summary type="html">开发了一个自动生成建表语句的python小程序，用生成好的数据表插入数据，发现了问题。</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="疑难杂症" scheme="https://blog.raxianch.moe/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL Charset--UTF8和UTF8MB4的区别</title>
+    <link href="https://blog.raxianch.moe/article/2685378097/"/>
+    <id>https://blog.raxianch.moe/article/2685378097/</id>
+    <published>2021-04-22T01:33:17.000Z</published>
+    <updated>2021-04-22T01:33:17.000Z</updated>
+    
+    
+    <summary type="html">某日，数据库建表的时候，我开始好奇mysql的charset编码设置参数。uft8和utf8mb4有啥区别呢？</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="navicat" scheme="https://blog.raxianch.moe/tags/navicat/"/>
+    
+    <category term="Mysql" scheme="https://blog.raxianch.moe/tags/Mysql/"/>
+    
+    <category term="charset" scheme="https://blog.raxianch.moe/tags/charset/"/>
+    
+    <category term="utf8mb4" scheme="https://blog.raxianch.moe/tags/utf8mb4/"/>
+    
+    <category term="utf8" scheme="https://blog.raxianch.moe/tags/utf8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python如何判断文件是否存在？</title>
+    <link href="https://blog.raxianch.moe/article/3659666415/"/>
+    <id>https://blog.raxianch.moe/article/3659666415/</id>
+    <published>2021-04-05T09:24:19.000Z</published>
+    <updated>2021-04-05T09:24:19.000Z</updated>
+    
+    
+    <summary type="html">Python如何判断文件是否存在？</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>scrapy全局setting各项配置的说明</title>
+    <link href="https://blog.raxianch.moe/article/4252984638/"/>
+    <id>https://blog.raxianch.moe/article/4252984638/</id>
+    <published>2021-04-05T06:27:49.000Z</published>
+    <updated>2021-04-05T06:27:49.000Z</updated>
+    
+    
+    <summary type="html">scrapy全局setting各项配置的说明</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="爬虫" scheme="https://blog.raxianch.moe/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="scrapy" scheme="https://blog.raxianch.moe/tags/scrapy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python中如何判断sql语句操作成功？</title>
+    <link href="https://blog.raxianch.moe/article/1241896087/"/>
+    <id>https://blog.raxianch.moe/article/1241896087/</id>
+    <published>2021-04-05T06:09:43.000Z</published>
+    <updated>2021-04-05T06:09:43.000Z</updated>
+    
+    
+    <summary type="html">python中如何判断sql语句操作成功？</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="数据" scheme="https://blog.raxianch.moe/tags/%E6%95%B0%E6%8D%AE/"/>
+    
+    <category term="pymysql" scheme="https://blog.raxianch.moe/tags/pymysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pymysql批量插入方法executemany的使用</title>
+    <link href="https://blog.raxianch.moe/article/2058542617/"/>
+    <id>https://blog.raxianch.moe/article/2058542617/</id>
+    <published>2021-04-05T05:58:14.000Z</published>
+    <updated>2021-04-05T05:58:14.000Z</updated>
+    
+    
+    <summary type="html">Pymysql批量插入方法executemany的使用</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="mysql" scheme="https://blog.raxianch.moe/tags/mysql/"/>
+    
+    <category term="数据" scheme="https://blog.raxianch.moe/tags/%E6%95%B0%E6%8D%AE/"/>
+    
+    <category term="pymysql" scheme="https://blog.raxianch.moe/tags/pymysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python爬虫：Scrapy使用adbapi提高存储数据库效率</title>
+    <link href="https://blog.raxianch.moe/article/3104511781/"/>
+    <id>https://blog.raxianch.moe/article/3104511781/</id>
+    <published>2021-04-05T05:15:17.000Z</published>
+    <updated>2021-04-05T05:15:17.000Z</updated>
+    
+    
+    <summary type="html">Python爬虫：Scrapy使用adbapi提高存储数据库效率</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="爬虫" scheme="https://blog.raxianch.moe/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="scrapy" scheme="https://blog.raxianch.moe/tags/scrapy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据清洗：清理字符串中存在的\xa0字符</title>
+    <link href="https://blog.raxianch.moe/article/382879377/"/>
+    <id>https://blog.raxianch.moe/article/382879377/</id>
+    <published>2021-03-31T09:14:30.000Z</published>
+    <updated>2021-03-31T09:14:30.000Z</updated>
+    
+    
+    <summary type="html">简介</summary>
+    
+    
+    
+    <category term="IT技术" scheme="https://blog.raxianch.moe/categories/IT%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="python" scheme="https://blog.raxianch.moe/tags/python/"/>
+    
+    <category term="数据" scheme="https://blog.raxianch.moe/tags/%E6%95%B0%E6%8D%AE/"/>
+    
+    <category term="爬虫" scheme="https://blog.raxianch.moe/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="scrapy" scheme="https://blog.raxianch.moe/tags/scrapy/"/>
+    
+    <category term="django" scheme="https://blog.raxianch.moe/tags/django/"/>
+    
+    <category term="web" scheme="https://blog.raxianch.moe/tags/web/"/>
+    
+  </entry>
+  
+</feed>
