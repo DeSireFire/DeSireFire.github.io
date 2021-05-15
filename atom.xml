@@ -348,9 +348,9 @@
     <category term="技术博文" scheme="https://blog.raxianch.moe/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/"/>
     
     
-    <category term="git" scheme="https://blog.raxianch.moe/tags/git/"/>
-    
     <category term="github" scheme="https://blog.raxianch.moe/tags/github/"/>
+    
+    <category term="git" scheme="https://blog.raxianch.moe/tags/git/"/>
     
   </entry>
   
